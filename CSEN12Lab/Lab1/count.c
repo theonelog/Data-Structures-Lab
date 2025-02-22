@@ -1,7 +1,7 @@
 /*
  * File: count.c
  * 
- * Copyright: 2024, Awni AlQuraini
+ * Copyright: 2024, theonelog
  * 
  * Description: Reads the file and counts the amount of words in a file fed thru the command line.
  */

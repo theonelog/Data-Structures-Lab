@@ -1,6 +1,6 @@
 /*
 * File: list.c - doubly linked circular linked list  with a dummy node. 
-* Author: Awni AlQuraini
+* Author: theonelog
 * Lab Section: CSEN12L-1
 * Last Updated: 11/7/2024
 * Description: The implementation of the doubly linked circular linked list with a dummy node. Contains all the required

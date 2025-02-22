@@ -1,6 +1,6 @@
 /*
 * File: college.c - main driver file
-* Author: Awni AlQuraini
+* Author: theonelog
 * Lab Section: CSEN12L-1
 * Last Updated: 12/6/2024
 * Description: This is the driver file that does all tests required for the 2nd application of the term project. 

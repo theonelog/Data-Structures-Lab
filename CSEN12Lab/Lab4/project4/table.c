@@ -1,6 +1,6 @@
 /*
 * File: table.c - chained hash table implementation
-* Author: Awni AlQuraini 
+* Author: theonelog 
 * Lab Section: CSEN12L-1
 * Last Updated: 11/7/2024
 * Description: The implementation of a set with a hash table using linked lists to handle collisions. Works with parity.c and unique.c

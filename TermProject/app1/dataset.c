@@ -1,6 +1,6 @@
 /*
 * File: dataset.c
-* Author: Awni AlQuraini 
+* Author: theonelog 
 * Lab Section: CSEN12L-1
 * Last Updated: 12/6/2024
 * Description: The implementation of a set with a hash table using linked lists to handle collisions. 

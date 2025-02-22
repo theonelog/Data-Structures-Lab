@@ -1,6 +1,6 @@
 /*
 * File: table.c - string implementation
-* Author: Awni AlQuraini 
+* Author: theonelog 
 * Lab Section: CSEN12L-1
 * Last Updated: 10/24/2024
 * Description: This is the string implementation for a hash table implementation of a Set ADT. This can be compiled with the parity.c and unique.c

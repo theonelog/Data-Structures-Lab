@@ -1,6 +1,6 @@
 /*
 * File: unsorted.c
-* Author: Awni AlQuraini
+* Author: theonelog
 * Last Updated: 10/9/2024
 * Description: This file an implementation of the Set ADT using an unsorted array. This can be used with the parity.c and unique.c files to run
 a variety of comparissons. The search algorithm used in this implementation is a sequential/linear search.

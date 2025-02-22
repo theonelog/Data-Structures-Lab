@@ -1,6 +1,6 @@
 /*
 * File: dataset.c
-* Author: Awni AlQuraini 
+* Author: theonelog 
 * Lab Section: CSEN12L-1
 * Last Updated: 12/6/2024
 * Description: This is the dataset implementation for the college.c driver function. It uses direct hashing by ID to store all the elements for
